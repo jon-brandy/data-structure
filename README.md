@@ -2,7 +2,11 @@
   <img src="https://user-images.githubusercontent.com/70703371/175765833-43968224-bbff-400f-a71d-76257ec3887c.png" alt="text" />
 </p>
 
-## DESCRIPTION:
+# What is Data Structure?
+
+A data structure is a special format for organizing, processing, retrieving, and storing data. It is known that there are several types of basic and advanced data structures, all designed to organize data to suit a specific purpose. There are also benefits of data structures, namely to make it easier for users to access and work with the data they need in the right way. In essence, with the data structure, all machines and humans can more easily understand the information.
+
+## FOR YOUR INFORMATION:
 
 At my university, during the data structure course, we use the C programming language but with the extension `.cpp`.
 
