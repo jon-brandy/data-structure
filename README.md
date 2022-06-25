@@ -3,7 +3,8 @@
 
 At my university, during the data structure course, we use the C programming language but with the extension `.cpp`.
 
-**NOTES**: IF YOU WANT TO COPY OR SAVE THE SOURCE CODE, CHANGE THE EXTENSION TO .CPP 
+**NOTES**: 
+> IF YOU WANT TO COPY OR SAVE THE SOURCE CODE, CHANGE THE EXTENSION TO .CPP 
 
 |No.|Topic|Languages|
 |:-:|:---:|:-------:|
