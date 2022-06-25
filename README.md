@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/70703371/175765833-43968224-bbff-400f-a71d-76257ec3887c.png" alt="text" />
 </p>
 
-# Data Structure
 ## DESCRIPTION:
 
 At my university, during the data structure course, we use the C programming language but with the extension `.cpp`.
