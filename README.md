@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70703371/175765833-43968224-bbff-400f-a71d-76257ec3887c.png" width="500" alt="text" />
+</p>
+
 # Data Structure
 ## DESCRIPTION:
 
