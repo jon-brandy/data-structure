@@ -3,7 +3,6 @@
 
 At my university, during the data structure course, we use the C programming language but with the extension `.cpp`.
 
----
 
 ## Table of Contents
 |No.|Topic|Languages|
